@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer and Graphic designer
 ----------------------------------
 
-I'm a passionate computer science student at the University of Guillan, with a strong focus on full-stack web development. My expertise lies in building robust and scalable applications using Django for the backend and React.js for the frontend.
+I'm a passionate computer science student at the University of Guillan, with a strong focus on full-stack web development. My expertise lies on building robust and scalable applications using Django for the backend and React.js for the frontend.
 
 #### 💻 Technologies & Tools:
 - Backend: Django, Django REST Framework
