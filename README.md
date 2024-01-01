@@ -1,16 +1,31 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amirhossein
+===================================================================================================================================
 
-<!--
-**capamir/capamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer and Graphic designer
+----------------------------------
 
-Here are some ideas to get you started:
+I'm a passionate computer science student at the University of Guillan, with a strong focus on full-stack web development. My expertise lies in building robust and scalable applications using Django for the backend and React.js for the frontend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Technologies & Tools:
+- Backend: Django, Django REST Framework
+- Frontend: React.js, HTML, CSS, JavaScript, Next.js, Tailwind css, SCSS
+- Database: PostgreSQL, MySQL
+- Version Control: Git, GitHub
+- Languages: Python, JavaScript, C++
+
+#### 🚀 Currently Exploring:
+I'm on a journey to enhance my skills and broaden my horizons. Currently, I'm diving into the world of mobile development with React Native. Excited about the possibilities and challenges that come with building cross-platform mobile applications.
+
+#### 🌱 Learning Goals:
+- Mastering React Native for mobile development
+- Continuous improvement in web development practices
+- Exploring new technologies and frameworks
+
+*   🌍  I'm based in Rasht, IR
+*   ✉️  You can contact me at [amirhn.workmail@gmail.com](mailto:amirhn.workmail@gmail.com)
+*   ⚡  I'm secretly Batman so don't call me at night cause I'm saving the Gotham
+
+*   #### 📫 Let's Connect:
+Feel free to reach out if you share similar interests, have exciting project ideas, or just want to connect. I'm always open to collaboration and learning from fellow developers!
+
+Happy coding! 🚀
