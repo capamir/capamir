@@ -25,7 +25,7 @@ I'm on a journey to enhance my skills and broaden my horizons. Currently, I'm di
 *   ✉️  You can contact me at [amirhn.workmail@gmail.com](mailto:amirhn.workmail@gmail.com)
 *   ⚡  I'm secretly Batman so don't call me at night cause I'm saving the Gotham
 
-*   #### 📫 Let's Connect:
+#### 📫 Let's Connect:
 Feel free to reach out if you share similar interests, have exciting project ideas, or just want to connect. I'm always open to collaboration and learning from fellow developers!
 
 Happy coding! 🚀
