@@ -6,12 +6,31 @@ Web developer and Graphic designer
 
 I'm a passionate computer science student at the University of Guillan, with a strong focus on full-stack web development. My expertise lies on building robust and scalable applications using Django for the backend and React.js for the frontend.
 
-#### 💻 Technologies & Tools:
-- Backend: Django, Django REST Framework
-- Frontend: React.js, HTML, CSS, JavaScript, Next.js, Tailwind css, SCSS
-- Database: PostgreSQL, MySQL
-- Version Control: Git, GitHub
-- Languages: Python, JavaScript, C++
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="C#" height="25" src="images/cpp.svg"></code>
+  <code><img title="C#" height="25" src="images/python-original.svg"></code>
+  <code><img title="C#" height="25" src="images/django.png"></code>
+  <code><img title="C#" height="25" src="images/flask.png"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="Problem Solving" height="25" src="images/vscode.png"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="Redux" height="25" src="images/redux.svg"></code>
+  <code><img title="Redux" height="25" src="images/json.svg"></code>
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Git" height="25" src="images/github.svg"></code>
+  <code><img title="Git" height="25" src="images/mysql.svg"></code>
+  <code><img title="Git" height="25" src="images/postgresql.svg"></code>
+</p>
+<hr>
 
 #### 🚀 Currently Exploring:
 I'm on a journey to enhance my skills and broaden my horizons. Currently, I'm diving into the world of mobile development with React Native. Excited about the possibilities and challenges that come with building cross-platform mobile applications.
