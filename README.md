@@ -32,7 +32,7 @@ I'm a passionate computer science student at the University of Guillan, with a s
 </p>
 <hr>
 <h4 align="center">
-  <a href="[https://github.com/pooooriya?tab=repositories](https://github.com/capamir?tab=repositories)" title="My Repositories">🔎 My Repositories 🔍</a>
+  <a href="[[https://github.com/pooooriya?tab=repositories](https://github.com/capamir?tab=repositories)](https://github.com/capamir?tab=repositories)" title="My Repositories">🔎 My Repositories 🔍</a>
 </h4>
 
 #### 🚀 Currently Exploring:
