@@ -51,3 +51,6 @@ I'm on a journey to enhance my skills and broaden my horizons. Currently, I'm di
 Feel free to reach out if you share similar interests, have exciting project ideas, or just want to connect. I'm always open to collaboration and learning from fellow developers!
 
 Happy coding! 🚀
+
+<hr>
+<img src="./bumblebee.png" />
